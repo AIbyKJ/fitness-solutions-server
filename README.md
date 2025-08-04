@@ -39,3 +39,7 @@ Fitness Solutions Server will host the API to support various Fitness Solutions 
 | Eat                     | Android        | v1.0.0  |
 | Fitness Coach App       | Cross platform | v1.0.0  |
 | Fitness Solutions Admin | macOS Catalyst | v1.0.0  |
+
+## Need improvment
+Need update docker-compose file with backend service.
+Scalable for user increasement
